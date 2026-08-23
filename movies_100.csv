@@ -1,0 +1,101 @@
+movie_id,title,language,year,genre,rating,rating_count,popularity
+460135,LEGO DC Super Hero Girls: Brain Drain,en,2017.0,Animation,10.0,2.0,8.413734
+211139,The Lion of Thebes,en,1964.0,"Drama, Action, Adventure",10.0,1.0,1.783625
+259808,Criminal Justice,en,1990.0,"TV Movie, Drama",10.0,1.0,1.460826
+151062,Mad at the Moon,en,1992.0,,10.0,1.0,1.225055
+101185,The Far Pavilions,en,1984.0,"Drama, History, Romance",10.0,1.0,1.178475
+295011,Patient Zero,en,,"Action, Drama, Horror, Thriller",10.0,2.0,1.083454
+146679,Backyard Dogs,en,2001.0,"Action, Comedy",10.0,1.0,0.9854
+296901,Firefly,en,1975.0,Comedy,10.0,1.0,0.957019
+27079,High Roller: The Stu Ungar Story,en,2003.0,"Drama, Action",10.0,1.0,0.888157
+138699,The Little Hut,en,1957.0,"Comedy, Romance",10.0,2.0,0.883862
+89861,Stiff Upper Lips,en,1998.0,Comedy,10.0,1.0,0.882132
+157862,Growing Pains,en,1984.0,Comedy,10.0,1.0,0.853913
+149320,King: A Filmed Record... Montgomery to Memphis,en,1970.0,Documentary,10.0,1.0,0.810554
+390837,Stephen Lynch: Hello Kalamazoo,en,2016.0,"Music, Comedy",10.0,1.0,0.724499
+72886,Mortal Kombat: The Journey Begins,en,1995.0,"Action, Animation",10.0,1.0,0.714715
+327352,Christopher Titus: Angry Pursuit of Happiness,en,2014.0,Comedy,10.0,2.0,0.671568
+180954,Vessel of Wrath,en,1938.0,"Comedy, Drama, Romance",10.0,1.0,0.657391
+197611,Dragonfly,en,1976.0,Drama,10.0,1.0,0.646465
+230284,One Man's Journey,en,1933.0,Drama,10.0,1.0,0.625556
+431714,Long Strange Trip,en,2017.0,"Music, Documentary",10.0,1.0,0.617655
+21466,Mera Naam Joker,hi,1970.0,"Drama, Romance",10.0,3.0,0.621181
+143980,Brave Revolutionary,hi,1994.0,,10.0,1.0,0.318826
+19404,Dilwale Dulhania Le Jayenge,hi,1995.0,"Comedy, Drama, Romance",9.1,661.0,34.457024
+48929,Shree 420,hi,1955.0,"Romance, Drama",9.0,3.0,0.529872
+352205,Parched,hi,2015.0,Drama,8.5,23.0,3.322681
+66292,Agni Sakshi,hi,1996.0,"Drama, Thriller",8.5,2.0,0.320909
+376681,X: Past Is Present,hi,2015.0,Mystery,8.5,2.0,0.311335
+140883,Prahaar: The Final Attack,hi,1991.0,,8.3,2.0,0.908234
+118632,Ghatak: Lethal,hi,1996.0,,8.2,3.0,1.052675
+403867,Kaabil,hi,2017.0,"Action, Crime, Romance",8.1,23.0,7.404544
+360814,Dangal,hi,2016.0,Drama,8.0,140.0,8.792104
+415358,Pink,hi,2016.0,"Thriller, Drama",8.0,39.0,2.380732
+58725,Netaji Subhas Chandra Bose: The Forgotten Hero,hi,2005.0,"Action, Drama, History",8.0,1.0,0.388216
+397365,Madaari,hi,2016.0,Thriller,7.9,11.0,1.257554
+320873,Dhanak,hi,2015.0,"Drama, Comedy",7.9,7.0,0.381319
+20453,3 Idiots,hi,2009.0,"Drama, Comedy, Romance",7.8,850.0,7.675621
+41518,Guzaarish,hi,2010.0,"Drama, Romance",7.8,34.0,2.175691
+254420,Gulaab Gang,hi,2014.0,"Action, Drama",7.8,4.0,1.936529
+297222,PK,hi,2014.0,"Comedy, Drama, Science Fiction",7.7,262.0,12.58752
+26022,My Name Is Khan,hi,2010.0,"Drama, Romance",7.7,237.0,11.264586
+134477,Sandesham,ml,1991.0,"Comedy, Drama, Family",8.8,5.0,1.13233
+210737,Yodha,ml,1992.0,"Adventure, Comedy, Fantasy",8.3,5.0,0.80792
+244049,Drishyam,ml,2013.0,"Crime, Thriller",8.1,23.0,1.908761
+398786,Kammatipaadam,ml,2016.0,"Crime, Drama",8.1,9.0,0.994288
+169364,Swayamvaram,ml,1972.0,Drama,8.0,1.0,0.063531
+411054,Guppy,ml,2016.0,Drama,7.9,4.0,0.437969
+178314,Shutter,ml,2013.0,Thriller,7.7,6.0,1.530521
+381691,Maheshinte Prathikaaram,ml,2016.0,"Comedy, Drama",7.7,9.0,0.656226
+381374,Action Hero Biju,ml,2016.0,"Action, Comedy, Crime",7.7,6.0,0.350207
+372297,Charlie,ml,2015.0,"Drama, Romance",7.4,10.0,1.188662
+268660,Bangalore Days,ml,2014.0,"Drama, Family, Romance",7.4,19.0,0.955596
+84368,Manichitrathazhu,ml,1993.0,"Fantasy, Horror, Mystery, Thriller",7.4,9.0,0.927886
+190945,Mumbai Police,ml,2013.0,"Crime, Mystery, Thriller",7.4,10.0,0.69783
+152625,Akkare Akkare Akkare,ml,1990.0,Comedy,7.3,4.0,0.112792
+117751,Ustad Hotel,ml,2012.0,"Drama, Family",7.2,15.0,1.923616
+217389,Memories,ml,2013.0,"Crime, Thriller",7.2,9.0,0.668117
+207649,Vanaprastham,ml,1999.0,Drama,7.2,6.0,0.427798
+180048,Amen,ml,2013.0,"Fantasy, Music, Romance",6.9,6.0,1.104156
+134474,Godfather,ml,1991.0,"Comedy, Romance",6.9,4.0,0.646227
+257160,Ohm Shanthi Oshaana,ml,2014.0,"Comedy, Romance",6.9,8.0,0.633359
+264038,Kaaka Muttai,ta,2015.0,Drama,8.2,12.0,1.071588
+372226,Visaranai,ta,2016.0,"Drama, Thriller",8.0,8.0,0.867549
+387252,Kadhalum Kadanthu Pogum,ta,2016.0,"Comedy, Drama, Romance",7.9,6.0,0.756886
+280165,Thani Oruvan,ta,2015.0,"Romance, Thriller, Action",7.8,21.0,0.940349
+49074,Baasha,ta,1995.0,Action,7.8,14.0,0.704162
+37941,Vinnaithaandi Varuvaayaa,ta,2010.0,"Drama, Romance",7.7,19.0,1.036233
+70988,Yuddham Sei,ta,2011.0,"Crime, Action, Thriller",7.7,3.0,0.986974
+69638,Pithamagan,ta,2003.0,Action,7.7,6.0,0.520341
+82124,Mouna Raagam,ta,1986.0,"Romance, Drama",7.7,3.0,0.437959
+341420,Demonte Colony,ta,2015.0,"Comedy, Horror",7.6,7.0,0.918321
+38637,Vaaranam Aayiram,ta,2008.0,"Drama, Comedy, Thriller, Romance",7.5,13.0,0.505589
+69499,Naan Kadavul,ta,2009.0,"Music, Drama, Action, Mystery",7.5,4.0,0.476025
+66346,Aalavandhan,ta,2001.0,"Action, Thriller",7.5,4.0,0.208012
+29971,Nayakan,ta,1987.0,"Drama, Action, Foreign",7.5,15.0,0.014463
+40998,Kannathil Muthamittal,ta,2002.0,"Drama, Foreign, War",7.4,8.0,1.210001
+330421,Papanasam,ta,2015.0,"Crime, Drama, Family, Thriller",7.4,13.0,0.569463
+224339,Onaayum Aattukkuttiyum,ta,2013.0,"Crime, Drama, Mystery, Thriller",7.4,6.0,0.38313
+330418,Indru Netru Naalai,ta,2015.0,"Science Fiction, Comedy",7.4,7.0,0.326862
+449742,Kavan,ta,2017.0,"Thriller, Drama",7.3,7.0,1.262638
+47940,Padayappa,ta,1999.0,"Drama, Foreign",7.3,13.0,1.135828
+400247,Gentleman,te,2016.0,"Romance, Thriller",8.5,2.0,0.40596
+253533,Manam,te,2014.0,"Family, Fantasy, Drama, Comedy",7.8,12.0,1.218925
+393841,Pelli Choopulu,te,2016.0,"Romance, Comedy",7.8,4.0,0.902294
+365187,Nannaku Prematho,te,2016.0,"Romance, Action",7.8,7.0,0.85973
+256040,Baahubali: The Beginning,te,2015.0,"Action, Adventure, History, War",7.5,138.0,11.80967
+76116,Alluda Majaka,te,1995.0,,7.5,2.0,1.042726
+73578,Jalsa,te,2008.0,,7.3,4.0,0.409499
+23790,Magadheera,te,2009.0,Action,7.2,23.0,1.630422
+83889,Businessman,te,2012.0,"Action, Foreign",6.9,9.0,0.663859
+353533,Srimanthudu,te,2015.0,"Romance, Action, Family, Drama",6.8,8.0,0.600893
+350312,Baahubali 2: The Conclusion,te,2017.0,"Action, Adventure, History, War",6.7,161.0,9.042261
+148265,Eega,te,2012.0,"Romance, Science Fiction",6.7,33.0,8.615159
+80805,Simhadri,te,2003.0,,6.7,3.0,0.835405
+117058,Desamuduru,te,2007.0,"Drama, Action, Crime, Romance, Foreign",6.7,3.0,0.588809
+224061,Atharintiki Daaredi,te,2013.0,"Action, Comedy, Drama",6.6,10.0,0.915895
+199160,Happy Days,te,2007.0,Drama,6.6,5.0,0.815203
+37172,Athadu,te,2005.0,"Action, Foreign, Thriller",6.6,7.0,0.668636
+34763,Aarya 2,te,2009.0,,6.6,5.0,0.476043
+23381,Pokiri,te,2006.0,"Action, Foreign, Thriller",6.5,8.0,0.631275
+60807,Kick,te,2009.0,"Action, Comedy, Thriller, Romance, Foreign",6.4,9.0,0.827978
